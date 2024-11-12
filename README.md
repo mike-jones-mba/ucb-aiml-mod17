@@ -40,7 +40,7 @@ Analytics work.
 
 
 A Note to the reader regarding the "Learning Outcome Findings" section: 
-
+```
    [1]  Clearly stated business understanding of problem
    [2]  Clean and organized notebook with data cleaning
    [3]  Correct and concise interpretation of descriptive and inferential 
@@ -48,7 +48,7 @@ A Note to the reader regarding the "Learning Outcome Findings" section:
    [4]  Clearly stated findings in their own section with actionable items 
         highlighted in appropriate language for a non-technical audience
    [5]  Next steps and recommendations
-
+```
 
 In the pdf file is the write up, giving both the Business and AI/Analytic 
 perspective.  The only thing about the paper is that it is not concise, and 
